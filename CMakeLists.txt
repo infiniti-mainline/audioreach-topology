@@ -12,6 +12,7 @@ set(TPLGS
 	"SM8450-HDK\;SM8450-HDK\;qcom/sm8450\;"
 	"SM8550-HDK\;eliza-cqs-evk\;qcom/eliza\;"
 	"SM8550-HDK\;Kaanapali-MTP\;qcom/kaanapali\;"
+	"OnePlus-Infiniti\;OnePlus-Infiniti\;qcom/kaanapali\;"
 	"SM8550-HDK\;SM8550-HDK\;qcom/sm8550\;"
 	"SM8550-HDK\;SM8550-QRD\;qcom/sm8550\;"
 	"SM8550-HDK\;SM8650-QRD\;qcom/sm8650\;"
